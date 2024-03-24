@@ -1,16 +1,19 @@
-# myapp
+# Information about the exercise:
 
-A new Flutter project.
+Name: Klenn Jakek V. Borja
 
-## Getting Started
+Section and Course: UV1L - CS 23
 
-This project is a starting point for a Flutter application.
+About the repository: The repository contains a program that handles and manages the states of different objects. In this exercise, we simulated a shopping cart application to apply the state management concepts. 
 
-A few resources to get you started if this is your first Flutter project:
+To run the app:
+## Please make sure that before you run the app, install the required dependencies (provider package) first.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To install the provider package, type the following commands in the terminal:
+```bash
+flutter pub add provider
+```
+To run the app, create an instance of your android emulator and perform the following command:
+```bash
+flutter run
+```
